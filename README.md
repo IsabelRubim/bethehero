@@ -2,6 +2,8 @@
 
 :rocket: Projeto desenvolvido na Semana OmniStack 11.0
 
+Você pode ver [aqui](https://bethehero-projeto.netlify.com/).
+
 ![versão web](https://i.imgur.com/46WPAXU.png)
 
 Construído com:
